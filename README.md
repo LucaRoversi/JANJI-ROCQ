@@ -1,8 +1,8 @@
 # JANJI-ROCQ
 
 This repository contains the official reference implementation in Rocq that
-supports the correctness of the results in the paper *Hardening MCP-Enabled
-Agentic Workflows: a Type-and-Effect System for Trace Safety* (Aldinucci,
+supports the correctness of the results in the paper [Hardening MCP-Enabled
+Agentic Workflows: a Type-and-Effect System for Trace Safety](https://github.com/LucaRoversi/JANJI-ROCQ/blob/main/GianluigiFerrari_tribute_2026.pdf) (Aldinucci,
 Bracciali, Colonnelli, Medic, Mulone, Roversi, and Santimaria). The code is
 released under the MIT/Apache-2.0 license to maximize reproducibility and
 scientific reuse.
