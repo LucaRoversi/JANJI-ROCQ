@@ -1,0 +1,13 @@
+-Q theories Janji
+
+theories/Prelude.v
+theories/Syntax.v
+theories/Trace.v
+theories/Policy.v
+theories/FilesystemOracle.v
+theories/Typing.v
+theories/Semantics.v
+theories/Safety.v
+theories/Examples.v
+theories/one_step_agentic_provenance_and_authority_confinement.v
+theories/trace_safety.v

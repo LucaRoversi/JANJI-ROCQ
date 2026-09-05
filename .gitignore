@@ -12,8 +12,6 @@
 ###############################################################################
 !.gitignore
 !_CoqProject
-!CoqMakefile
-!LICENSE
 !Makefile
 !README.md
 
@@ -35,7 +33,7 @@
 ###############################################################################
 # 6) EXCLUDED
 ###############################################################################
-FORMALIZATION.md
-theories/PaperText.v
 CoqMakefile.conf
+CoqMakefile
+LICENSE
 
